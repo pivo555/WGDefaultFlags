@@ -1,0 +1,9 @@
+flags:
+  - 'pvp:allow'
+  - 'use:allow'
+  - 'chest-access:allow'
+  - 'block-trampling:allow'
+  - 'fire-spread:deny'
+  - 'enderman-grief:deny'
+  - 'creeper-explosion:deny'
+  - 'ravager-grief:deny'
